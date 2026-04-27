@@ -18,7 +18,7 @@ Previously at **Avalara Technologies**.
 
 ## About Me
 
-- 🤖 Building ML systems end-to-end — from data pipelines to model deploymen
+- 🤖 Building ML systems end-to-end — from data pipelines to model deployment
 - 🛠️ Background in software engineering with experience in cloud infrastructure and backend systems
 - 📊 Exploring the intersection of data, models, and production-ready engineering
 - 📫 Reach me at **siddhichavan0306@gmail.com**
