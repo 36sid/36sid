@@ -61,11 +61,4 @@ Previously at **Avalara Technologies**.
 
 ---
 
-## Tech Stack Distribution
-
-<div align="center">
-
-![Tech Stack Pie Chart](https://quickchart.io/chart?c={type:'pie',data:{labels:['Python','JavaScript','HTML/CSS','Jupyter','C++','Other'],datasets:[{data:[33,27,13,7,7,13],backgroundColor:['%233776AB','%23F7DF1E','%23E34C26','%23F37726','%2300599C','%23999999']}]},options:{legend:{position:'bottom'},title:{display:true,text:'Languages by Repository Usage'}}})
-
-</div>
 
