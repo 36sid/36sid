@@ -2,63 +2,90 @@
 
 # Hi, I'm Siddhi Chavan 👋
 
-**Software Engineer → Machine Learning Engineer**
+### Machine Learning Engineer · Backend Engineer
 
-Transitioning from software engineering into ML, building end-to-end systems through hands-on projects.
-Previously at **Avalara Technologies**.
+Building systems where strong engineering meets machine learning —
+scalable APIs, LLM-powered applications, and production ML pipelines.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/siddhi-chavan-b0a7481b8)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/siddhichavan)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://www.leetcode.com/siddhi_036)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/siddhi_036)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:siddhichavan0306@gmail.com)
 
 </div>
 
 ---
 
-## About Me
+## 💡 About Me
 
-- 🤖 Building ML systems end-to-end — from data pipelines to model deployment
-- 🛠️ Background in software engineering with experience in cloud infrastructure and backend systems
-- 📊 Exploring the intersection of data, models, and production-ready engineering
-- 📫 Reach me at **siddhichavan0306@gmail.com**
+- 🏢 Previously at **Avalara Technologies** — built and maintained REST APIs with FastAPI, handled async messaging with AWS SQS/SNS, deployed on EC2 with Docker, and set up observability with Grafana and Prometheus
+- 🤖 Now applying that engineering foundation to ML — building LLM-powered applications, semantic search systems, and end-to-end ML pipelines
+- 🧠 Focused on: RAG, embeddings, model serving, and MLOps
+- 🔍 I care about both sides: clean model design *and* the infra that makes it production-ready
+- 📫 **siddhichavan0306@gmail.com**
 
 ---
 
-## Tech Stack
+## 🚀 Featured Projects
+
+| Project | What it does | Stack |
+|---|---|---|
+| [betterboxd](https://github.com/36sid/betterboxd) | Semantic film search — describe a feeling, get a film. Sentence embeddings + similarity search served via FastAPI | PyTorch · Transformers · sentence-transformers · FastAPI |
+| [fastapi-blog-api](https://github.com/36sid/fastapi-blog-api) | Production-style REST API with auth, async endpoints, Swagger docs, and structured logging | FastAPI · PostgreSQL · Docker |
+| [pypostman](https://github.com/36sid/pypostman) | Python-based API client for testing and scripting HTTP requests | Python |
+
+---
+
+## 🛠️ Tech Stack
+
+**ML / AI**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+**Backend & Infra**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**Cloud & DevOps**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-## GitHub Stats
+## 🎯 Open To
+
+- Machine Learning Engineer roles
+- AI Engineer roles
+- Backend Python/FastAPI roles
+- Open-source collaboration
+
+---
+
+## 📈 GitHub Stats
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=36sid&show_icons=true&theme=default&hide_border=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=36sid&layout=compact&hide_border=true&theme=default" />
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=36sid&hide_border=true)
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=36sid&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=36sid&layout=compact&hide_border=true&theme=tokyonight" />
 
 </div>
 
 ---
 
+<div align="center">
 
+*Always building. Always shipping.*
+
+</div>
