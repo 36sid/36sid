@@ -4,8 +4,8 @@
 
 ### Machine Learning Engineer · Backend Engineer
 
-Building systems where strong engineering meets machine learning —
-scalable APIs, LLM-powered applications, and production ML pipelines.
+Interested in backend engineering, machine learning systems, and developer tooling —
+building APIs, LLM-powered applications, and ML projects.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/siddhi-chavan-b0a7481b8)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/siddhichavan)
@@ -18,10 +18,10 @@ scalable APIs, LLM-powered applications, and production ML pipelines.
 
 ## 💡 About Me
 
-- 🏢 Previously at **Avalara Technologies** — built and maintained REST APIs with FastAPI, handled async messaging with AWS SQS/SNS, deployed on EC2 with Docker, and set up observability with Grafana and Prometheus
-- 🤖 Now applying that engineering foundation to ML — building LLM-powered applications, semantic search systems, and end-to-end ML pipelines
-- 🧠 Focused on: RAG, embeddings, model serving, and MLOps
-- 🔍 I care about both sides: clean model design *and* the infra that makes it production-ready
+- 🏢 Previously at **Avalara Technologies** — worked on REST APIs with FastAPI, async messaging using AWS SQS/SNS, Docker deployments on EC2, and observability with Grafana and Prometheus
+- 🤖 Currently exploring ML systems through LLM applications, semantic search, and practical ML workflows
+- 🧠 Interested in RAG, embeddings, retrieval systems, and ML infrastructure
+- 🔍 I enjoy working on both ML models and the backend/infrastructure around them
 - 📫 **siddhichavan0306@gmail.com**
 
 ---
@@ -29,9 +29,8 @@ scalable APIs, LLM-powered applications, and production ML pipelines.
 ## 🌱 Currently Learning & Building
 
 - 🐹 Learning **Go** and exploring systems-level/backend development patterns
-- 🛠️ Building a **CLI tool from scratch** to deepen my understanding of tooling, architecture, and developer workflows
-- 🔎 Building **PyDocDex** — a search engine for Python documentation focused on faster, smarter developer search experiences
-
+- 🛠️ Building a **CLI tool from scratch** while learning more about tooling and developer workflows
+- 🔎 Building **PyDocDex** — a search engine for Python documentation
 
 ---
 
@@ -81,7 +80,6 @@ scalable APIs, LLM-powered applications, and production ML pipelines.
 - Open-source collaboration
 
 ---
-
 
 <div align="center">
 
