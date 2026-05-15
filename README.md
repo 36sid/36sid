@@ -26,6 +26,15 @@ scalable APIs, LLM-powered applications, and production ML pipelines.
 
 ---
 
+## 🌱 Currently Learning & Building
+
+- 🐹 Learning **Go** and exploring systems-level/backend development patterns
+- 🛠️ Building a **CLI tool from scratch** to deepen my understanding of tooling, architecture, and developer workflows
+- 🔎 Building **PyDocDex** — a search engine for Python documentation focused on faster, smarter developer search experiences
+
+
+---
+
 ## 🚀 Featured Projects
 
 | Project | What it does | Stack |
