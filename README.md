@@ -82,16 +82,6 @@ scalable APIs, LLM-powered applications, and production ML pipelines.
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=36sid&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=36sid&layout=compact&hide_border=true&theme=tokyonight" />
-
-</div>
-
----
 
 <div align="center">
 
